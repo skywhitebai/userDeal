@@ -1,0 +1,9 @@
+d:\users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\bin\Debug\userDeal.exe.config
+d:\Users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\bin\Debug\userDeal.exe
+d:\Users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\bin\Debug\userDeal.pdb
+d:\Users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\obj\Debug\userDeal.csprojResolveAssemblyReference.cache
+d:\Users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\obj\Debug\userDeal.Form1.resources
+d:\Users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\obj\Debug\userDeal.Properties.Resources.resources
+d:\Users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\obj\Debug\userDeal.csproj.GenerateResource.Cache
+d:\Users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\obj\Debug\userDeal.exe
+d:\Users\administrator\documents\visual studio 2013\Projects\userDeal\userDeal\obj\Debug\userDeal.pdb
